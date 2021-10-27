@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning HTML, CSS and javaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can contact me via e-mail mohamadalshora85@gmail.com
 
 <!---
 MoShora/MoShora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
